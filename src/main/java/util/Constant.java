@@ -5,4 +5,5 @@ public class Constant {
   public static final String XML_ELEMENT = "dcvalue";
   public static final String FILES_DIRECTORY = "src/main/resources/SimpleArchiveFormat";
   public static final String XML_NAMED_ITEM = "element";
+  public static final String XML_NAMED_ITEM_2 = "qualifier";
 }

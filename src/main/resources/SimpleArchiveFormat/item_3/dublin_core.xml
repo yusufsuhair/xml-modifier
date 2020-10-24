@@ -5,6 +5,6 @@
     <dcvalue element="date" qualifier="issued">1991-08-21</dcvalue>
     <dcvalue element="description">the last frontier</dcvalue>
     <dcvalue element="format" qualifier="extent">626,932</dcvalue>
-    <dcvalue element="contributor">Martini, M. Aston</dcvalue>
-    <dcvalue element="contributor">Jura Mehmood</dcvalue>
+    <dcvalue element="contributor" qualifier="author">Martini, M. Aston</dcvalue>
+    <dcvalue element="contributor" qualifier="author">Jura Mehmood</dcvalue>
 </dublin_core>

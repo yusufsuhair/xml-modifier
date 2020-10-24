@@ -62,6 +62,7 @@ public class Main {
             // append a new node to staff
             Element age = document.createElement(Constant.XML_ELEMENT);
             age.setAttribute(Constant.XML_NAMED_ITEM, "contributor");
+            age.setAttribute(Constant.XML_NAMED_ITEM_2, "author");
             age.setTextContent(convertedRankList.get(j));
             root.appendChild(age);
 
