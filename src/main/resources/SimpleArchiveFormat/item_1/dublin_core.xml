@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<dublin_core>
+    <dcvalue element="title">Alabama</dcvalue>
+    <dcvalue element="date" qualifier="issued">1819-12-14</dcvalue>
+    <dcvalue element="description">yellowhammer state</dcvalue>
+    <dcvalue element="format" qualifier="extent">4447100</dcvalue>
+    <dcvalue element="contributor">Robert R. Riley</dcvalue>
+    <dcvalue element="contributor">John, M.S.</dcvalue>
+    <dcvalue element="contributor">Brown Y.M.</dcvalue>
+</dublin_core>
