@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <dublin_core>
     <dcvalue element="title">Alaska</dcvalue>
-
     <dcvalue element="date" qualifier="issued">1991-08-21</dcvalue>
     <dcvalue element="description">the last frontier</dcvalue>
     <dcvalue element="format" qualifier="extent">626,932</dcvalue>
+
     <dcvalue element="contributor" qualifier="author">Montana Y. K.</dcvalue>
     <dcvalue element="contributor" qualifier="author">Robert Kyosaki</dcvalue>
     <dcvalue element="contributor" qualifier="author">Dr. Ismel Syeith</dcvalue>

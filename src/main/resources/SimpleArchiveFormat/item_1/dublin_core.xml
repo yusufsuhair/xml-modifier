@@ -1,11 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<dublin_core>
-    <dcvalue element="title">Alabama</dcvalue>
-
-    <dcvalue element="date" qualifier="issued">1819-12-14</dcvalue>
-    <dcvalue element="description">yellowhammer state</dcvalue>
-    <dcvalue element="format" qualifier="extent">4447100</dcvalue>
-    <dcvalue element="contributor" qualifier="author">Robert R. Riley</dcvalue>
-    <dcvalue element="contributor" qualifier="author">John, M.S.</dcvalue>
-    <dcvalue element="contributor" qualifier="author">Brown Y.M.</dcvalue>
-</dublin_core>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><dublin_core><dcvalue element="title">Alabama</dcvalue><dcvalue element="date" qualifier="issued">1819-12-14</dcvalue><dcvalue element="description">yellowhammer state</dcvalue><dcvalue element="format" qualifier="extent">4447100</dcvalue><dcvalue element="contributor" qualifier="author">John, M.S.</dcvalue><dcvalue element="contributor" qualifier="author">Brown Y.M.</dcvalue><dcvalue element="contributor" qualifier="author">Robert R. Riley</dcvalue></dublin_core>

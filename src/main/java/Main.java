@@ -42,7 +42,7 @@ public class Main {
 
       Node root = document.getFirstChild();
 
-      for (int i = 0; i < dublin_core_size - 1; i++) {
+      for (int i = 0; i < dublin_core_size; i++) {
 
         String contributor = document.getElementsByTagName(Constant.XML_ELEMENT).item(i)
             .getAttributes().getNamedItem(Constant.XML_NAMED_ITEM).getTextContent();
